@@ -4,5 +4,6 @@ Hi there! This repository is home to created data layers, google earth engine co
 
 The code script where I conducted a raster overlay of the boundaries can be found [here](https://code.earthengine.google.com/b839d089c03cfb52aea704f5684beae8)
 
+Higher resolution copies of my maps can be viewed at an Open Science Foundation link [here](https://doi.org/10.17605/OSF.IO/Y29WC)
 
 For any further information I can be reached at bclaird@middlebury.edu 
